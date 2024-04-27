@@ -1,5 +1,5 @@
 b
-## Perpoostakaan
+## PusPerPus
 - PHP 8.2.0
 - MySQL
 - Laravel 10
