@@ -1,4 +1,3 @@
-b
 ## PusPerPus
 - PHP 8.2.0
 - MySQL
